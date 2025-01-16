@@ -13,3 +13,10 @@ Cosine Similarity: Enhance relevance detection by replacing dot product with cos
 t-SNE Visualization: Visualize high-dimensional data for better understanding of data distribution and clustering.
 Fine-Tuning: Customize pre-trained language models for specific tasks to improve accuracy on targeted datasets.
 Performance Evaluation: Compare retrieval methods (cosine similarity vs. dot product) to assess efficiency and relevance.
+🎯 Objectives
+Understand Embedding Techniques: Generate embeddings from pre-trained models.
+Leverage PyTorch & TorchHub: Load and fine-tune advanced models.
+Visualize High-Dimensional Data: Use t-SNE to understand embeddings.
+Optimize NLP Solutions: Develop a RAG-based system for query response.
+Improve Similarity Metrics: Use cosine similarity for relevance detection.
+Evaluate Models: Assess model performance in real-world scenarios.
